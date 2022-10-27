@@ -1,0 +1,64 @@
+Uri: https://mc.yandex.ru/watch/66355789
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\watch\66355789
+Content Type: image/gif
+
+Uri: https://t-cloud.world/css/main-page-custom.css
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\css\main-page-custom.css
+Content Type: text/css
+
+Uri: https://t-cloud.world/css/main-page.css
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\css\main-page.css
+Content Type: text/css
+
+Uri: https://t-cloud.world/favicon.ico?v=1.1
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/card1.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\card1.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/card2.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\card2.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/card3.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\card3.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/card4.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\card4.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/card5.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\card5.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/cloud500.png
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\cloud500.png
+Content Type: image/png
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/logo-mobile.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\logo-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/logo.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/main-image.png
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\main-image.png
+Content Type: image/png
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/mc.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/image/ICO/main-page-ico/visa.svg
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\image\ICO\main-page-ico\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://t-cloud.world/main
+File Name: C:\ИНСПИРИТУМ\ARBMAIN\ARBMAIN-119\t-cloud.world\main.html
+Content Type: text/html
+

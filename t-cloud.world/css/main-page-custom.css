@@ -1,0 +1,23 @@
+.btn_white {
+    color: #D85ED7;
+}
+
+.btn_white-bold {
+    color: #D85ED7;
+}
+
+.btn_gradient {
+    background: transparent linear-gradient(90deg, #FF784F 0%, #FFAF00 100%) 0% 0% no-repeat padding-box;
+}
+
+.promo-list__item {
+    background: transparent linear-gradient(90deg, #FF784F 0%, #FFAF00 100%) 0% 0% no-repeat padding-box;
+}
+
+.promo-list__item:before {
+    background: #FFAF00;
+}
+
+.promo-list__item:after {
+    border-color: #fff;
+}
